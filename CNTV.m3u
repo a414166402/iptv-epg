@@ -253,3 +253,5 @@ https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 https://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 #EXTINF:-1 group-title="测试",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="测试",环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
